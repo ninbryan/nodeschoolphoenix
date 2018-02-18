@@ -1,3 +1,5 @@
 {
-  "name": "nodeschoolphoenix"
+  "name": "nodeschoolphoenix",
+  "version": "0.0.0",
+  "main": "index.html"
 }
